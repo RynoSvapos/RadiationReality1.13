@@ -1,0 +1,36 @@
+name: RadiationReality
+author: Rynoooo
+version: 3.0
+main: org.rynodevelops.radiationreality.Main
+description: Un plugin per sistemare come interagiscono le radiazioni.
+
+
+commands:
+  givemask:
+    description: Ti da la maschera.
+    usage: /<command>
+  givefilter:
+    description: Ti da il filtro.
+    usage: /<command>
+  getvaluesdebug:
+    description: Ti dice le cose belle
+    usage: /<command>
+  getgaiger:
+    description: Ti dice se stai per morire
+    usage: /<command>
+  getfialetta:
+    description: coso per prendere il sangue
+    usage: /<command>
+  getradioprot:
+    description: coso per purificarti
+    usage: /<command>
+  testthermalrad:
+    description: yo
+    usage: /<command>
+  startwind:
+    description: fratm
+    usage: /<command>
+  stopwind:
+    description: sorm
+    usage: /<command>
+    
